@@ -1,252 +1,223 @@
-👋 Hi, I'm Ajima Fabian
+# 🚀 AJIMA FABIAN — DEVOPS & INFRASTRUCTURE ENGINEER
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+%26+Infrastructure+Engineer;Linux+Systems+Administrator;Cloud+%26+Platform+Engineering;Automation+%26+CI%2FCD+Specialist;Networking+%26+Scalable+Systems;Backend+%26+Infrastructure+Developer" alt="Typing SVG" /><br>⚡ Infrastructure • Automation • Cloud-Native Systems • Networking • Observability • Backend Engineering
+<div align="center">
 
-</div>---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+%26+Infrastructure+Engineer;Linux+Systems+Administrator;Cloud+%26+Platform+Engineering;Automation+%26+CI%2FCD+Specialist;Networking+%26+Scalable+Systems;Backend+%26+Infrastructure+Developer" />
 
-🧠 Engineering Profile
+### ⚡ Infrastructure • Automation • Cloud-Native Systems • Networking • Observability • Backend Engineering
 
-I build and manage scalable infrastructure systems with a strong focus on automation, reliability, cloud-native workflows, backend integration, and operational efficiency.
+</div>
+
+---
+
+# 🧠 ENGINEERING PROFILE
+
+I build and manage scalable, secure, and production-grade infrastructure systems with a strong focus on automation, reliability, cloud-native workflows, backend integration, and operational efficiency.
+
+My engineering journey combines real-world infrastructure and application engineering across distributed environments, emphasizing system reliability, scalability, automation-first design, and DevOps best practices.
 
 My engineering journey combines:
 
-- 🐧 Linux systems engineering
-- ⚙️ DevOps automation & CI/CD architecture
-- ☁️ Cloud infrastructure & container orchestration
-- 🌐 Networking, reverse proxies & traffic engineering
-- 📊 Monitoring, observability & operational visibility
-- 🚀 Backend-integrated infrastructure workflows
-- 🔐 Secure deployment and infrastructure practices
+- 🐧 Linux systems engineering (enterprise administration & automation)  
+- ⚙️ DevOps automation & CI/CD architecture (delivery pipelines & workflows)  
+- ☁️ Cloud infrastructure & container orchestration (AWS & Kubernetes ecosystems)  
+- 🌐 Networking, reverse proxies & traffic engineering (secure routing systems)  
+- 📊 Monitoring, observability & operational visibility (metrics & logging systems)  
+- 🚀 Backend-integrated infrastructure workflows (APIs & service integration)  
+- 🔐 Secure deployment and infrastructure practices (DevSecOps mindset)  
 
-I enjoy designing systems that prioritize:
+I design systems that prioritize:
 
-- scalability
-- automation
-- maintainability
-- resilience
-- deployment efficiency
-- operational visibility
-- infrastructure reliability
+**scalability • automation • maintainability • resilience • security • deployment efficiency • observability**
 
 ---
 
-⚡ Technical Expertise
+# ⚡ TECHNICAL EXPERTISE (ENGINEERING DASHBOARD)
+
+## 🧠 CORE INFRASTRUCTURE MATRIX
 
 <table>
 <tr>
-<td valign="top" width="50%">🐧Linux & Systems Engineering
 
-- RHEL/CentOS administration
-- Ubuntu server administration
-- Multi-user environment management
-- Process & service orchestration
-- Package & repository management
-- Infrastructure automation with Bash
-- Shell environment customization
-- Log analysis & operational tooling
-- Cron-based task scheduling
-- Backup & recovery workflows
-- Persistent service configuration
-- File permission & access management
-- SSH & remote server administration
-- Server hardening practices
-- System troubleshooting workflows
+<td width="50%" valign="top">
 
-</td><td valign="top" width="50%">⚙️ DevOps & Platform Engineering
+# 🐧 LINUX & SYSTEMS ENGINEERING
 
-- CI/CD pipeline engineering
-- GitHub Actions workflows
-- Git workflow management
-- Docker container ecosystems
-- Docker Compose orchestration
-- Multi-container deployments
-- Nginx reverse proxy architecture
-- Infrastructure-as-Code workflows
-- Self-hosted deployment runners
-- Deployment automation pipelines
-- Kubernetes orchestration
-- Kubernetes deployment workflows
-- Infrastructure provisioning
-- Environment configuration management
-- Automated release workflows
+### SYSTEM OPERATIONS LAYER
+
+- RHEL / CentOS / Ubuntu administration  
+- Process & service lifecycle management  
+- Bash scripting & infrastructure automation workflows  
+- Cron job scheduling systems  
+- Log analysis, debugging & system diagnostics  
+- User, group & permission management  
+- SSH & remote server administration  
+- Server hardening & security optimization  
+- Package & repository management  
+- System performance tuning & troubleshooting  
 
 </td>
-</tr><tr>
-<td valign="top" width="50%">☁️ Cloud Infrastructure & Platforms
 
-- AWS EC2 compute environments
-- Amazon S3 object storage
-- VPC network architecture
-- Elastic Load Balancer configuration
-- Kubernetes/EKS deployment workflows
-- Cloud resource provisioning
-- Infrastructure deployment pipelines
-- Containerized cloud workloads
-- Scalable application hosting
-- Cloud networking architecture
-- High-availability deployment strategies
-- Cloud-native deployment workflows
+<td width="50%" valign="top">
 
-</td><td valign="top" width="50%">🌐 Networking & Infrastructure Security
+# ⚙️ DEVOPS & PLATFORM ENGINEERING
 
-- TCP/IP networking architecture
-- Reverse proxy traffic routing
-- VPN deployment workflows
-- Secure remote access workflows
-- Firewall & routing configuration
-- DNS & traffic flow concepts
-- Load balancing strategies
-- Infrastructure isolation practices
-- Secure infrastructure deployment
-- Network troubleshooting workflows
-- Service accessibility optimization
-- Backend traffic management
+### DELIVERY & AUTOMATION LAYER
+
+- CI/CD pipelines (GitHub Actions workflows)  
+- Docker container ecosystems & image management  
+- Kubernetes orchestration workflows  
+- Nginx reverse proxy architecture  
+- Infrastructure as Code (Terraform / Ansible)  
+- Self-hosted runners & automation systems  
+- Multi-service deployment architectures  
+- Automated release & deployment pipelines  
+- Environment configuration management  
+- Platform engineering workflows  
 
 </td>
+
 </tr>
-</table>---
 
-📊 Monitoring, Logging & Observability
+<tr>
 
-- Prometheus metrics collection
-- Grafana dashboard engineering
-- Infrastructure visibility pipelines
-- Resource utilization tracking
-- Infrastructure monitoring workflows
-- Service monitoring architecture
-- Operational analytics
-- Centralized logging workflows
-- Log aggregation concepts
-- Infrastructure health reporting
-- Observability engineering concepts
-- Incident visibility practices
+<td width="50%" valign="top">
 
----
+# ☁️ CLOUD INFRASTRUCTURE
 
-💻 Backend & Application Engineering
+### AWS CLOUD ENGINE
 
-- REST API architecture
-- Authentication systems with JWT
-- Express.js backend development
-- MERN stack integration
-- Backend deployment workflows
-- API testing with Postman
-- Authentication & authorization workflows
-- Database integration workflows
-- Production-ready backend structuring
-- Modular backend architecture
+- EC2 compute provisioning & management  
+- S3 storage architecture & workflows  
+- VPC network architecture & isolation design  
+- Load balancer configuration & scaling  
+- EKS Kubernetes cluster deployments  
+- Cloud-native application hosting systems  
+- Scalable infrastructure design & optimization  
+- High availability system architecture  
+- Cloud deployment automation pipelines  
 
----
+</td>
 
-🛠️ Infrastructure & DevOps Toolkit
+<td width="50%" valign="top">
 
-<div align="center"><img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,kubernetes,terraform,ansible,githubactions,git,github,gitlab,nginx,nodejs,express,mongodb,mysql,react,vite,javascript,html,css,tailwind,prometheus,grafana,postman,vscode&perline=9" /></div>---
+# 🌐 NETWORKING & SECURITY
 
-🚀 Featured Infrastructure Projects
+### TRAFFIC & SECURITY LAYER
 
-🔧 Linux User Management Automation Platform
+- TCP/IP networking architecture & troubleshooting  
+- DNS routing & domain configuration systems  
+- VPN secure tunneling & remote access  
+- Firewall configuration & network policies  
+- Reverse proxy traffic routing (Nginx-based)  
+- Load balancing strategies & traffic distribution  
+- Network diagnostics & performance optimization  
+- Secure infrastructure design & access control  
 
-Enterprise-style Linux automation toolkit built for scalable administrative operations.
+</td>
 
-Highlights
-
-- Modular Bash architecture
-- Automated user/group provisioning
-- Bulk administrative operations
-- Structured logging & auditing
-- Scalable script organization
-- Operational automation workflows
-
-Tech Stack
-
-"Bash" • "Linux" • "System Administration"
-
-🔗 Repository
-https://github.com/Ajima-Fabian/user-management-system
+</tr>
+</table>
 
 ---
 
-📊 Linux Infrastructure Monitoring Suite
+# 📊 OBSERVABILITY & MONITORING ENGINE
 
-Infrastructure monitoring and operational visibility toolkit for Linux environments.
+## 📡 MONITORING SYSTEMS
 
-Features
-
-- Real-time resource monitoring
-- Automated backup workflows
-- Log parsing & reporting
-- System health analysis
-- Operational reporting pipelines
-- Infrastructure observability workflows
-
-Tech Stack
-
-"Bash" • "Linux Monitoring" • "Automation"
-
-🔗 Repository
-https://github.com/Ajima-Fabian/linux-resource-monitor
+- Prometheus metrics collection & scraping  
+- System health monitoring & alerting  
+- Resource utilization tracking & analysis  
+- Service uptime monitoring systems  
+- Infrastructure visibility & reporting  
 
 ---
 
-🚀 CI/CD Automation Pipeline
+## 📊 OBSERVABILITY STACK
 
-Production-oriented deployment pipeline designed around GitHub Actions and automated delivery workflows.
-
-Features
-
-- Continuous integration workflows
-- Automated deployment execution
-- Self-hosted runner orchestration
-- Multi-stage deployment automation
-- Infrastructure deployment pipelines
-- Operational delivery workflows
-
-Tech Stack
-
-"GitHub Actions" • "Docker" • "Linux"
-
-🔗 Repository
-https://github.com/Ajima-Fabian/devops-cicd-pipeline
+- Grafana dashboard engineering & visualization  
+- Log aggregation pipelines & centralized logging  
+- Incident visibility & troubleshooting systems  
+- Operational analytics & performance tracking  
+- System observability architecture design  
 
 ---
 
-🌐 Nginx Reverse Proxy Infrastructure
+# 💻 BACKEND ENGINEERING LAYER
 
-Scalable reverse proxy environment for routing and managing distributed backend services.
+## 🚀 APPLICATION & API SYSTEMS
 
-Features
-
-- Multi-service traffic routing
-- Reverse proxy architecture
-- Scalable backend integration
-- Gateway-style request management
-- Load-balancing ready deployment
-- Production-oriented proxy workflows
-
-Tech Stack
-
-"Nginx" • "Linux" • "Networking"
-
-🔗 Repository
-https://github.com/Ajima-Fabian/nginx-reverse-proxy
+- REST API architecture & design principles  
+- Express.js backend development  
+- JWT authentication & authorization systems  
+- MongoDB integration & data modeling  
+- MERN stack application workflows  
+- API testing & validation (Postman)  
+- Modular backend architecture design  
+- Production-ready backend system structuring  
+- Service integration with infrastructure layers  
 
 ---
 
-📈 Engineering Focus
+# 🛠️ INFRASTRUCTURE & DEVOPS TOOLKIT
 
-Current Focus:
-  - Kubernetes & container orchestration
-  - Cloud-native infrastructure
-  - Platform engineering workflows
-  - Infrastructure observability
+<div align="center">
+
+Linux • Bash • Git • GitHub • Docker • Kubernetes • AWS • Terraform • Ansible • Nginx  
+Node.js • Express • MongoDB • React • Vite • JavaScript • HTML • CSS • Tailwind  
+Prometheus • Grafana • GitHub Actions • Postman • GitLab  
+
+</div>
+
+---
+
+# 🚀 FEATURED INFRASTRUCTURE PROJECTS
+
+## 🔧 Linux User Management Automation System
+Automated Linux user/group management toolkit for system administration workflows.
+
+**Tech:** Bash • Linux • System Engineering  
+https://github.com/Ajima-Fabian/user-management-system  
+
+---
+
+## 📊 Linux Infrastructure Monitoring System
+System monitoring, backup automation, log analysis & infrastructure observability toolkit.
+
+**Tech:** Bash • Linux • Monitoring & Observability  
+https://github.com/Ajima-Fabian/linux-resource-monitor  
+
+---
+
+## 🚀 CI/CD AUTOMATION PIPELINE
+GitHub Actions-based automated deployment and delivery system.
+
+**Tech:** GitHub Actions • Docker • Linux  
+https://github.com/Ajima-Fabian/devops-cicd-pipeline  
+
+---
+
+## 🌐 NGINX REVERSE PROXY INFRASTRUCTURE
+Scalable reverse proxy system for distributed backend traffic management.
+
+**Tech:** Nginx • Linux • Networking  
+https://github.com/Ajima-Fabian/nginx-reverse-proxy  
+
+---
+
+# 📈 ENGINEERING FOCUS
+
+```yaml
+Current_Focus:
+  - Kubernetes orchestration & scaling
+  - Cloud-native infrastructure design
   - Production-grade CI/CD systems
-  - Scalable deployment architecture
+  - Infrastructure observability expansion
   - DevSecOps practices
-  - Infrastructure reliability
-  - Backend scalability
-  - Distributed systems workflows
-  - Cloud automation engineering
-
+  - Distributed systems engineering
+  - Backend scalability architecture
+  - Platform engineering maturity
+```
 ---
 
 🏗️ Engineering Philosophy
