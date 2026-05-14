@@ -34,7 +34,8 @@ I enjoy designing systems that prioritize:
 
 <table>
 <tr>
-<td valign="top" width="50%">🐧 # Linux & Systems Engineering
+<td valign="top" width="50%">🐧
+# Linux & Systems Engineering
 
 - RHEL/CentOS administration
 - Ubuntu server administration
