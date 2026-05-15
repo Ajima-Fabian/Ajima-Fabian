@@ -1,4 +1,6 @@
-# 🚀 AJIMA FABIAN — DEVOPS & INFRASTRUCTURE ENGINEER
+## AJIMA FABIAN
+
+# DEVOPS & INFRASTRUCTURE ENGINEER
 
 <div align="center">
 
@@ -32,7 +34,7 @@ I design systems that prioritize:
 
 ---
 
-# ⚡ TECHNICAL EXPERTISE (ENGINEERING DASHBOARD)
+# TECHNICAL EXPERTISE (ENGINEERING DASHBOARD)
 
 ## 🧠 CORE INFRASTRUCTURE MATRIX
 
@@ -121,7 +123,7 @@ I design systems that prioritize:
 
 ---
 
-# 📊 OBSERVABILITY & MONITORING ENGINE
+# OBSERVABILITY & MONITORING ENGINE
 
 ## 📡 MONITORING SYSTEMS
 
@@ -143,7 +145,7 @@ I design systems that prioritize:
 
 ---
 
-# 💻 BACKEND ENGINEERING LAYER
+# BACKEND ENGINEERING LAYER
 
 ## 🚀 APPLICATION & API SYSTEMS
 
@@ -159,7 +161,7 @@ I design systems that prioritize:
 
 ---
 
-# 🛠️ INFRASTRUCTURE & DEVOPS TOOLKIT
+# INFRASTRUCTURE & DEVOPS TOOLKIT
 
 <div align="center">
 
@@ -171,7 +173,7 @@ Prometheus • Grafana • GitHub Actions • Postman • GitLab
 
 ---
 
-# 🚀 FEATURED INFRASTRUCTURE PROJECTS
+# FEATURED INFRASTRUCTURE PROJECTS
 
 ## 🔧 Linux User Management Automation System
 Automated Linux user/group management toolkit for system administration workflows.
@@ -205,7 +207,7 @@ https://github.com/Ajima-Fabian/nginx-reverse-proxy
 
 ---
 
-# 📈 ENGINEERING FOCUS
+# ENGINEERING FOCUS
 
 ```yaml
 Current_Focus:
@@ -220,13 +222,13 @@ Current_Focus:
 ```
 ---
 
-🏗️ Engineering Philosophy
+### Engineering Philosophy
 
 «“Reliable infrastructure should be automated, observable, scalable, secure, and resilient by design.”»
 
 ---
 
-📚 Currently Exploring
+#### Currently Exploring
 
 - Advanced Kubernetes orchestration
 - DevSecOps workflows
