@@ -1,4 +1,5 @@
 <div align="center">
+  
 ## AJIMA FABIAN
 
 # DEVOPS & INFRASTRUCTURE ENGINEER
@@ -14,7 +15,11 @@
 
 ---
 
+<div align="center">
+  
 # 🧠 ENGINEERING PROFILE
+
+</div>
 
 I build and manage scalable, secure, and production-grade infrastructure systems with a strong focus on automation, reliability, cloud-native workflows, backend integration, and operational efficiency.
 
@@ -36,7 +41,11 @@ I design systems that prioritize:
 
 ---
 
+<div align="center">
+  
 # TECHNICAL EXPERTISE (ENGINEERING DASHBOARD)
+
+</div>
 
 ## 🧠 CORE INFRASTRUCTURE MATRIX
 
@@ -45,7 +54,11 @@ I design systems that prioritize:
 
 <td width="50%" valign="top">
 
+<div align="center">
+  
 # 🐧 LINUX & SYSTEMS ENGINEERING
+
+</div>
 
 ### SYSTEM OPERATIONS LAYER
 
@@ -64,7 +77,11 @@ I design systems that prioritize:
 
 <td width="50%" valign="top">
 
+<div align="center">
+  
 # ⚙️ DEVOPS & PLATFORM ENGINEERING
+
+</div>
 
 ### DELIVERY & AUTOMATION LAYER
 
@@ -87,7 +104,11 @@ I design systems that prioritize:
 
 <td width="50%" valign="top">
 
+<div align="center">
+  
 # ☁️ CLOUD INFRASTRUCTURE
+
+</div>
 
 ### AWS CLOUD ENGINE
 
@@ -105,7 +126,11 @@ I design systems that prioritize:
 
 <td width="50%" valign="top">
 
+<div align="center">
+  
 # 🌐 NETWORKING & SECURITY
+
+</div>
 
 ### TRAFFIC & SECURITY LAYER
 
@@ -125,7 +150,11 @@ I design systems that prioritize:
 
 ---
 
+<div align="center">
+  
 # OBSERVABILITY & MONITORING ENGINE
+
+</div>
 
 ## 📡 MONITORING SYSTEMS
 
@@ -147,7 +176,11 @@ I design systems that prioritize:
 
 ---
 
+<div align="center">
+  
 # BACKEND ENGINEERING LAYER
+
+</div>
 
 ## 🚀 APPLICATION & API SYSTEMS
 
@@ -163,7 +196,11 @@ I design systems that prioritize:
 
 ---
 
+<div align="center">
+  
 # INFRASTRUCTURE & DEVOPS TOOLKIT
+
+</div>
 
 <div align="center">
 
@@ -175,7 +212,11 @@ Prometheus • Grafana • GitHub Actions • Postman • GitLab
 
 ---
 
+<div align="centre">
+  
 # FEATURED INFRASTRUCTURE PROJECTS
+
+</div>
 
 ## 🔧 Linux User Management Automation System
 Automated Linux user/group management toolkit for system administration workflows.
@@ -209,7 +250,11 @@ https://github.com/Ajima-Fabian/nginx-reverse-proxy
 
 ---
 
+<div align="centre">
+  
 # ENGINEERING FOCUS
+
+</div>
 
 ```yaml
 Current_Focus:
@@ -242,9 +287,11 @@ Current_Focus:
 
 ---
 
-📫 Connect With Me
+<div align="center">📧
 
-<div align="center">📧 ajimafabian18@gmail.com
+  ### Connect with me 
+  
+  ajimafabian18@gmail.com
 
 🔗 GitHub: https://github.com/Ajima-Fabian
 
