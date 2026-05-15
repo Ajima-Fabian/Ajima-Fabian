@@ -1,6 +1,8 @@
+<div align="center">
 ## AJIMA FABIAN
 
 # DEVOPS & INFRASTRUCTURE ENGINEER
+</div>
 
 <div align="center">
 
